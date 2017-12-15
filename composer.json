@@ -1,0 +1,12 @@
+{
+    "name": "ubuntu/workspace",
+    "authors": [
+        {
+            "name": "Ronniel",
+            "email": "piscoster@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
+}
